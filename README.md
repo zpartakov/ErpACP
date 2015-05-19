@@ -1,9 +1,11 @@
-# ErpACP
-@package ErpACP
-@version $Id: 1.0.0
-@author Fred Radeff fradeff@akademia.ch
-@copyright (c) 2015 Fred Radeff, akademia.ch
-@license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+#####################################################################
+# ErpACP / an ERP for ACP / AMAP                                    #
+# @package ErpACP                                                   #
+# @version $Id: 1.0.0                                               #
+# @author Fred Radeff fradeff@akademia.ch                           #
+# @copyright (c) 2015 Fred Radeff, akademia.ch                      #
+# @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later #
+#####################################################################
 
 ERP (Enterprise resource planning - Dolibarr) adapted for a contract farming organisation, 
 linked with a CMS (Content Management System - concrete5), a eCommerce WebShop and a
