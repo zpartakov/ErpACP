@@ -5,17 +5,23 @@
 @copyright (c) 2015 Fred Radeff, akademia.ch
 @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
-ERP (Enterprise resource planning - Dolibarr) adapted for a contract farming organisation, linked witha 
-CMS (Content Management System - concrete5).
+ERP (Enterprise resource planning - Dolibarr) adapted for a contract farming organisation, 
+linked with a CMS (Content Management System - concrete5), a eCommerce WebShop and a
+global intranet admin tool (CakePHP).
 
 ERP (Progiciel de gestion intégré - Dolibarr) adapté pour une ACP (coopérative d'agriculture 
-contractuelle de proximité (en Suisse, AMAP en France) avec une passerelle CMS (Système de gestion de contenu - concrete5).
+contractuelle de proximité (en Suisse, AMAP en France) avec une passerelle CMS 
+(Système de gestion de contenu - concrete5) et une boutique en ligne pour des produits
+sur commande et un intranet de gestion fait avec cakePHP.
 
 Required 
-Apache, MySQL, PHP
+Apache2, MySQL5, PHP5, CakePHP 1.3
 
-ERP: 
+ERP:
 Dolibarr https://github.com/Dolibarr/dolibarr
+
+eCommerce WebShop / Boutique en ligne:
+https://github.com/zpartakov/basketACP
 
 Suggested CMS:
 Concrete5.6.3.3 http://www.concrete5.org/download_file/-/view/75930/8497
