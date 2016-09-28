@@ -27,3 +27,5 @@ https://github.com/zpartakov/basketACP
 
 Suggested CMS:
 Concrete5.6.3.3 http://www.concrete5.org/download_file/-/view/75930/8497
+
+Ce projet a migré sur gitlab: https://gitlab.com/zpartakov/ErpACP
