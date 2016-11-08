@@ -26,6 +26,6 @@ eCommerce WebShop / Boutique en ligne:
 https://github.com/zpartakov/basketACP
 
 Suggested CMS:
-Concrete5.6.3.3 http://www.concrete5.org/download_file/-/view/75930/8497
+Concrete5.6.3.3 http://www.concrete5.org/
 
 Ce projet a migré sur gitlab: https://gitlab.com/zpartakov/ErpACP
